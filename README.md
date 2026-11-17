@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Hraimi
+- prénom : Chloe
+- URL Netlify : 
 
 # Travail
 
